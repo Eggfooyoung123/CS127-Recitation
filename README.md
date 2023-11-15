@@ -22,7 +22,18 @@ IN SUMMARY Brooklyn has experienced the greatest population growth in the past t
 From our research regarding the NYC Clean Heat Program in HC 3, we encountered the Types of Fuel Oils (No. 4 and No. 6), where No. 6 was revealed to create more environmental destruction due to it being heavy fuel for power plants and ships. Such claims from our research are proven to be correct, as in the neighborhoods in Brooklyn such as Flatbush, Brooklyn Heights, Ocean Parkway, and Borough Park convey the No. 6 type fuel oil contributing to equal or higher fuel usage.
 
 
-## Plots
+### Plots
+
+![Box Plot](images/boxplotboroughpark.png)
+
+Let's see how these high average fuel usage affect the Total MMBTU values. This box plot illustrates the ranges of total MMBTU use in Borough Park. MMBTU stands for Metric Million British Thermal Unit and it measures the heat content of fuel.
+
+![Pie Chat](images/piechartboroughpark.png)
+
+This pie chart categorizes the unique building types in Borough Park and calculates the rate of each category. We can see from the chart that the vast majority of buildings in Borough Park are apartments, mainly Walk-up and Elevator apartments. There is also an ample amount of educational and religious structures in Borough Park.
+
+
+
 
 
 
