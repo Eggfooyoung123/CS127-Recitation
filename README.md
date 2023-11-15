@@ -7,7 +7,10 @@
 
 ## Basic Statistics and Demographics
 
-![images/CSCI 127 Borough Park Analysis.png]
+![Statisics](images/CSCI_127_Borough_Park_Analysis.png)
+
+
+
 
 
 
