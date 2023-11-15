@@ -13,6 +13,13 @@ Borough Park, situated in southwestern Brooklyn across zip codes 11204, 11218, 1
 
 The NYC Clean Heat Program promotes sustainable heating and cooling practices, advocating for the adoption of environmentally friendly alternatives such as cold climate air source heat pumps and ground source heat pumps. By discouraging the use of fossil fuels, the program not only benefits the environment but also improves individual health by reducing the emission of harmful toxins from traditional heaters. The DEP Boiler Registration addresses air pollution concerns by monitoring and regulating soot emissions from older buildings, contributing to cleaner air in the city. Additionally, the Greener Greater Buildings Plan focuses on energy efficiency, targeting buildings responsible for a significant portion of NYC's energy consumption. Mandating benchmarking, audits, and upgrades, the plan values transparency in energy usage and aims to build a workforce capable of delivering greater energy efficiency. For effective transition to clean heating fuels, careful fuel selection, secure financing, and efficient coordination among parties involved are crucial to ensure a smooth and environmentally responsible shift.
 
+## HC4 Summary
+The Climate Mobilization Act of 2019 aimed to curb carbon emissions from NYC buildings, revealing that only 25% have an A energy efficiency rating, with 56% of home energy dedicated to space heating, predominantly fueled by oil. NYC's greenhouse gas emissions primarily stem from fossil fuel combustion, impacting 30% of the city's carbon footprint through building heating and cooling. The surge in global air conditioning use, notably in the U.S. with 40% of units, poses challenges due to energy consumption and the release of harmful refrigerants like hydrofluorocarbons. Other emission sources include natural gas and petroleum combustion in cooking and food production. NYC recently passed a bill banning fossil fuels in new buildings by 2026 (under seven stories) and 2029 for larger structures, mandating all-electric alternatives. In Brooklyn, notable efforts to reduce emissions include the Brooklyn Public Library's 16% reduction in 28 buildings through LED lighting, smart monitors, and HVAC upgrades, saving 3,500 metric tons of CO2. The library promotes sustainability by offering Home Energy Audit Toolkits, equipped with thermal imaging cameras and electricity monitoring systems, to educate and empower families in reducing energy consumption. This comprehensive approach reflects a growing awareness of the environmental impact of various activities within the city.
+
+
+
+
+
 
 
 
