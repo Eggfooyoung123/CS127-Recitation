@@ -37,7 +37,7 @@ This pie chart categorizes the unique building types in Borough Park and calcula
 
 
 <dl>
-<iframe src="boroughparkmap.html" width="600" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="files/boroughparkmap.html" width="600" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </dl>
 
 
