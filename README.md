@@ -2,6 +2,6 @@
 
 Highlighted Borough Park Map
 
-![Highlighted Map](highlighted_boroughpark_map.png)
+![Highlighted Map](images/highlighted_boroughpark_map.png)
 
 
