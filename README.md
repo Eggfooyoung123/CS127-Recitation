@@ -7,6 +7,6 @@
 
 ## Basic Statistics and Demographics
 
-![files/CSCI 127 Borough Park Analysis.pdf]
+![/files/CSCI 127 Borough Park Analysis.pdf]
 
 
