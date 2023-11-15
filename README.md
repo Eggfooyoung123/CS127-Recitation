@@ -22,6 +22,10 @@ IN SUMMARY Brooklyn has experienced the greatest population growth in the past t
 From our research regarding the NYC Clean Heat Program in HC 3, we encountered the Types of Fuel Oils (No. 4 and No. 6), where No. 6 was revealed to create more environmental destruction due to it being heavy fuel for power plants and ships. Such claims from our research are proven to be correct, as in the neighborhoods in Brooklyn such as Flatbush, Brooklyn Heights, Ocean Parkway, and Borough Park convey the No. 6 type fuel oil contributing to equal or higher fuel usage.
 
 
+## Plots
+
+
+
 
 
 
