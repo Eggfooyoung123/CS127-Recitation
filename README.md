@@ -32,9 +32,13 @@ Let's see how these high average fuel usage affect the Total MMBTU values. This 
 
 This pie chart categorizes the unique building types in Borough Park and calculates the rate of each category. We can see from the chart that the vast majority of buildings in Borough Park are apartments, mainly Walk-up and Elevator apartments. There is also an ample amount of educational and religious structures in Borough Park.
 
+## Borough Park Map
 
 
 
+<dl>
+<iframe src="boroughparkmap.html" width="600" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+</dl>
 
 
 
