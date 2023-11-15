@@ -17,6 +17,10 @@ The NYC Clean Heat Program promotes sustainable heating and cooling practices, a
 The Climate Mobilization Act of 2019 aimed to curb carbon emissions from NYC buildings, revealing that only 25% have an A energy efficiency rating, with 56% of home energy dedicated to space heating, predominantly fueled by oil. NYC's greenhouse gas emissions primarily stem from fossil fuel combustion, impacting 30% of the city's carbon footprint through building heating and cooling. The surge in global air conditioning use, notably in the U.S. with 40% of units, poses challenges due to energy consumption and the release of harmful refrigerants like hydrofluorocarbons. Other emission sources include natural gas and petroleum combustion in cooking and food production. NYC recently passed a bill banning fossil fuels in new buildings by 2026 (under seven stories) and 2029 for larger structures, mandating all-electric alternatives. In Brooklyn, notable efforts to reduce emissions include the Brooklyn Public Library's 16% reduction in 28 buildings through LED lighting, smart monitors, and HVAC upgrades, saving 3,500 metric tons of CO2. The library promotes sustainability by offering Home Energy Audit Toolkits, equipped with thermal imaging cameras and electricity monitoring systems, to educate and empower families in reducing energy consumption. This comprehensive approach reflects a growing awareness of the environmental impact of various activities within the city.
 
 
+## HC7/HC8 Summary
+IN SUMMARY Brooklyn has experienced the greatest population growth in the past ten years and currently is the most population dense.
+From our research regarding the NYC Clean Heat Program in HC 3, we encountered the Types of Fuel Oils (No. 4 and No. 6), where No. 6 was revealed to create more environmental destruction due to it being heavy fuel for power plants and ships. Such claims from our research are proven to be correct, as in the neighborhoods in Brooklyn such as Flatbush, Brooklyn Heights, Ocean Parkway, and Borough Park convey the No. 6 type fuel oil contributing to equal or higher fuel usage.
+
 
 
 
